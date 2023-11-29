@@ -1,0 +1,54 @@
+.material-symbols-outlined{
+    
+    display:flex;
+    height: 150%;
+}
+
+ul{
+    display: none;
+}
+.example{
+    display: none;
+}
+.right{
+    display: none;
+}
+.left{
+    display: none;
+}
+.grid{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+}
+.image-container{
+    display: flex;
+    flex-direction: column;
+}
+.second{
+display: flex;
+justify-content: center;
+width: 80%;
+
+align-items: center;
+flex-direction: column;
+}
+.back{
+    background-image: none;
+}
+.news-card{
+    margin-top: 20px;
+}
+.classs{
+    display: none;
+}
+.allss{
+    width: 100%;
+    display: block;
+}
+.bach{
+    width: 100%;
+}
+.footer-links{
+    display: none;
+}
